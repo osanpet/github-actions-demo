@@ -21,3 +21,4 @@ jobs:
 
     - name: Run Python Script
       run: python hello.py
+# add command  
